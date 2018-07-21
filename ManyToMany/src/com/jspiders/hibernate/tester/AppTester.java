@@ -61,6 +61,7 @@ public class AppTester {
 		MovieDAO movieDAO = new MovieDAO();
 		movieDAO.save(movieDTO);
 		System.out.println("hello");
+		System.out.println("hello");
 	}
 
 }
